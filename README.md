@@ -235,6 +235,8 @@ The Power BI dashboard includes:
 
 ### Visualizations
 
+<img width="1225" height="611" alt="image" src="https://github.com/user-attachments/assets/71a85a58-ed78-468e-9dc4-fc0b820268c7" />
+
 1. **Sales by Location** (Interactive Map)
    - Geographic distribution across Canada, China, India, Nigeria, UK, and US
 
